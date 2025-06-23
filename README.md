@@ -50,6 +50,7 @@ This app is currently live at:
 👉 **[Gradio Public Link](https://ade852361a353873ed.gradio.live)**  
 (Note: This link will expire in 7 days)
 
+Make sure to enter open Ai api key
 ---
 ## 🚀 Deploy This Notebook to Hugging Face Spaces
 
